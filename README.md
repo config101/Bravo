@@ -1,2 +1,12 @@
 # Bravo
-Bravo is an 8bit computer derived from Minimal CPU System by Carston Herting (SLU4).
+Bravo is an 8bit computer project derived from Minimal CPU System by Carston Herting (SLU4) and based on some concepts from Ben Eater's 8bit computer. Bravo has been developed in modules as an educational and fun  project for people who are interested in building Homebrew computers. The project is presented in a series of videos which goes through logical design, hardware development, testing and programming.
+
+Links:
+Minimal CPU System by Carston Herting (SLU4)
+https://www.youtube.com/channel/UCXYQcMpUBT3aaQKfmAVJNow
+https://github.com/slu4coder/Minimal-UART-CPU-System
+https://minimal-cpu-system.boards.net/
+
+Ben Eater's 8bit Computer
+https://eater.net/
+https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA
