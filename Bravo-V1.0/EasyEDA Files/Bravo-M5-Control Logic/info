@@ -1,0 +1,448 @@
+{
+  "uuid": "b0bb7bc014d3bfecfb82e6847e415b23",
+  "path": "Offline/Bravo-M5-Control%20Logic",
+  "name": "Bravo-M5-Control Logic",
+  "content": "",
+  "created_at": "2021-11-23 07:18:20",
+  "updated_at": "2021-11-26 23:12:06",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "152f62552101df7e74f70c83e7a23e2c",
+      "title": "Bravo-M5-Control Logic",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f146eb306ef0415eaf0db59b031927c5": 1,
+        "57c53ebf371e4280933a924aad624d6f": 1,
+        "92e4a58629f245a29b8ba442640afa3c": 1,
+        "ec62828c52d44e5689d63a6abc9657e9": 1,
+        "36e0b63aee434900b9af7ba4be298828": 1,
+        "9cc27d8b8e814df290ff3921f5c769e9": 1,
+        "844bed9cf79e4371a25f4134e0f03ea6": 1,
+        "9a3f9ac7b38f41c59669d0ffe6af0ea8": 1,
+        "662fcebf31c449498c34fdf13dfa7d5c": 1,
+        "9259843a0e914402ae73bb9f863eca1e": 2,
+        "83c4b55703414ea5be9087b0fb544aad": 1,
+        "7a6797ccc509488c989c738efca96a92": 1,
+        "7fb765e3208a418faeec3fe4f861fe3d": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "470pf",
+          1,
+          "CAP-TH_L4.0-W2.5-P5.00-D1.0",
+          "C509",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C342429",
+            "BOM_Manufacturer": "TDK",
+            "BOM_Manufacturer Part": "CC45SL3AD220JYVNA",
+            "puuid": "61724eaf9d8e46358297f270d4daf37a",
+            "uuid": "f146eb306ef0415eaf0db59b031927c5"
+          }
+        ],
+        [
+          "74HC161",
+          1,
+          "DIP-16_W7.62MM_SOCKET",
+          "U501",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "209ac49697bc42e187b750e70c46afdf",
+            "uuid": "7a6797ccc509488c989c738efca96a92"
+          }
+        ],
+        [
+          "74HC174D",
+          1,
+          "DIP-16_W7.62MM_SOCKET",
+          "U502",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "209ac49697bc42e187b750e70c46afdf",
+            "uuid": "57c53ebf371e4280933a924aad624d6f"
+          }
+        ],
+        [
+          "74HC173",
+          1,
+          "DIP-16_W7.62MM_SOCKET",
+          "U503",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "209ac49697bc42e187b750e70c46afdf",
+            "uuid": "83c4b55703414ea5be9087b0fb544aad"
+          }
+        ],
+        [
+          "SST39SF010A",
+          2,
+          "DIP-32_600MIL",
+          "U504,U505",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "8b021e57371d49829b74daa979f36fa4",
+            "uuid": "9259843a0e914402ae73bb9f863eca1e"
+          }
+        ],
+        [
+          "74HC08",
+          1,
+          "DIP-14_W7.62MM_SOCKET",
+          "U506",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "662fcebf31c449498c34fdf13dfa7d5c"
+          }
+        ],
+        [
+          "74HC00",
+          1,
+          "DIP-14_W7.62MM_SOCKET",
+          "U507",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "92e4a58629f245a29b8ba442640afa3c"
+          }
+        ],
+        [
+          "74HC04",
+          1,
+          "DIP-14_W7.62MM_SOCKET",
+          "U508",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "7fb765e3208a418faeec3fe4f861fe3d"
+          }
+        ],
+        [
+          "100nf",
+          6,
+          "CAP-TH_L4.0-W2.5-P5.00-D1.0",
+          "501,502,503,C506,C507,C508",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C342429",
+            "BOM_Manufacturer": "TDK",
+            "BOM_Manufacturer Part": "CC45SL3AD220JYVNA",
+            "puuid": "61724eaf9d8e46358297f270d4daf37a",
+            "uuid": "f146eb306ef0415eaf0db59b031927c5"
+          }
+        ],
+        [
+          "LH",
+          1,
+          "HEADER-2X20-2.54",
+          "H501",
+          {
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
+            "BOM_Supplier Part": "C57369",
+            "puuid": "622ce7b6bed34c9bb144fbbd4b9309f0",
+            "uuid": "98dd7f0dd33b4efe8ae9a0237cc7d82a"
+          }
+        ],
+        [
+          "RH",
+          1,
+          "HEADER-2X20-2.54",
+          "H502",
+          {
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
+            "BOM_Supplier Part": "C57369",
+            "puuid": "622ce7b6bed34c9bb144fbbd4b9309f0",
+            "uuid": "98dd7f0dd33b4efe8ae9a0237cc7d82a"
+          }
+        ],
+        [
+          "74HC08",
+          1,
+          "DIP-14_W7.62MM_SOCKET",
+          "U506",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "d86b217614674d3493dbd665399c8a69"
+          }
+        ],
+        [
+          "74HC00",
+          1,
+          "DIP-14_W7.62MM_SOCKET",
+          "U507",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "49ef36d1994b48beb60a4e4e25a5228c"
+          }
+        ],
+        [
+          "74HC04",
+          1,
+          "DIP-14_W7.62MM_SOCKET",
+          "U508",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "65c444c65eb64dae865252f8219edf54"
+          }
+        ]
+      ],
+      "updateTime": 1637995796,
+      "createTime": 1637680711,
+      "histories": [],
+      "created_at": "2021-11-23 07:18:31",
+      "updated_at": "2021-11-26 22:49:56"
+    },
+    {
+      "uuid": "d49c3a28417e94cfd2b60d86b9fa59f6",
+      "title": "Bravo-M5-Common",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "d86b217614674d3493dbd665399c8a69": 1,
+        "65c444c65eb64dae865252f8219edf54": 1,
+        "85b9f96c3165471ca99d459e06d16b5e": 1,
+        "b2d1a85cc2ce4c1abde54d0ff894c311": 1,
+        "572d503334374150ab5c6506de300be8": 1,
+        "49ef36d1994b48beb60a4e4e25a5228c": 1,
+        "699c587fc8a64886ac7701977cdd846b": 1,
+        "412c15394f2a4181ad18ee50ea5ce99d": 1,
+        "c921078daa3548efabf83f41aa5c32c8": 1,
+        "f146eb306ef0415eaf0db59b031927c5": 6,
+        "98dd7f0dd33b4efe8ae9a0237cc7d82a": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "470pf",
+          1,
+          "CAP-TH_L4.0-W2.5-P5.00-D1.0",
+          "C509",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C342429",
+            "BOM_Manufacturer": "TDK",
+            "BOM_Manufacturer Part": "CC45SL3AD220JYVNA",
+            "puuid": "61724eaf9d8e46358297f270d4daf37a",
+            "uuid": "f146eb306ef0415eaf0db59b031927c5"
+          }
+        ],
+        [
+          "74HC161",
+          1,
+          "DIP-16_W7.62MM_SOCKET",
+          "U501",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "209ac49697bc42e187b750e70c46afdf",
+            "uuid": "7a6797ccc509488c989c738efca96a92"
+          }
+        ],
+        [
+          "74HC174D",
+          1,
+          "DIP-16_W7.62MM_SOCKET",
+          "U502",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "209ac49697bc42e187b750e70c46afdf",
+            "uuid": "57c53ebf371e4280933a924aad624d6f"
+          }
+        ],
+        [
+          "74HC173",
+          1,
+          "DIP-16_W7.62MM_SOCKET",
+          "U503",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "209ac49697bc42e187b750e70c46afdf",
+            "uuid": "83c4b55703414ea5be9087b0fb544aad"
+          }
+        ],
+        [
+          "SST39SF010A",
+          2,
+          "DIP-32_600MIL",
+          "U504,U505",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "8b021e57371d49829b74daa979f36fa4",
+            "uuid": "9259843a0e914402ae73bb9f863eca1e"
+          }
+        ],
+        [
+          "74HC08",
+          1,
+          "DIP-14_W7.62MM_SOCKET",
+          "U506",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "662fcebf31c449498c34fdf13dfa7d5c"
+          }
+        ],
+        [
+          "74HC00",
+          1,
+          "DIP-14_W7.62MM_SOCKET",
+          "U507",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "92e4a58629f245a29b8ba442640afa3c"
+          }
+        ],
+        [
+          "74HC04",
+          1,
+          "DIP-14_W7.62MM_SOCKET",
+          "U508",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "7fb765e3208a418faeec3fe4f861fe3d"
+          }
+        ],
+        [
+          "100nf",
+          6,
+          "CAP-TH_L4.0-W2.5-P5.00-D1.0",
+          "501,502,503,C506,C507,C508",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C342429",
+            "BOM_Manufacturer": "TDK",
+            "BOM_Manufacturer Part": "CC45SL3AD220JYVNA",
+            "puuid": "61724eaf9d8e46358297f270d4daf37a",
+            "uuid": "f146eb306ef0415eaf0db59b031927c5"
+          }
+        ],
+        [
+          "LH",
+          1,
+          "HEADER-2X20-2.54",
+          "H501",
+          {
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
+            "BOM_Supplier Part": "C57369",
+            "puuid": "622ce7b6bed34c9bb144fbbd4b9309f0",
+            "uuid": "98dd7f0dd33b4efe8ae9a0237cc7d82a"
+          }
+        ],
+        [
+          "RH",
+          1,
+          "HEADER-2X20-2.54",
+          "H502",
+          {
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
+            "BOM_Supplier Part": "C57369",
+            "puuid": "622ce7b6bed34c9bb144fbbd4b9309f0",
+            "uuid": "98dd7f0dd33b4efe8ae9a0237cc7d82a"
+          }
+        ],
+        [
+          "74HC08",
+          1,
+          "DIP-14_W7.62MM_SOCKET",
+          "U506",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "d86b217614674d3493dbd665399c8a69"
+          }
+        ],
+        [
+          "74HC00",
+          1,
+          "DIP-14_W7.62MM_SOCKET",
+          "U507",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "49ef36d1994b48beb60a4e4e25a5228c"
+          }
+        ],
+        [
+          "74HC04",
+          1,
+          "DIP-14_W7.62MM_SOCKET",
+          "U508",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "65c444c65eb64dae865252f8219edf54"
+          }
+        ]
+      ],
+      "updateTime": 1637995041,
+      "createTime": 1637681557,
+      "histories": [],
+      "created_at": "2021-11-23 07:32:37",
+      "updated_at": "2021-11-26 22:37:21"
+    },
+    {
+      "uuid": "3a9e2cbecf5bdfff56fee2d1922cd01b",
+      "puuid": "b0bb7bc014d3bfecfb82e6847e415b23",
+      "title": "PCB_Bravo-M5-Control Logic",
+      "filename": "PCB_Bravo-M5-Control Logic.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "61724eaf9d8e46358297f270d4daf37a": 7,
+        "622ce7b6bed34c9bb144fbbd4b9309f0": 2,
+        "209ac49697bc42e187b750e70c46afdf": 3,
+        "8b021e57371d49829b74daa979f36fa4": 2,
+        "43789f3fe2154fd1bda052af2bd833a8": 3
+      },
+      "BOM": [],
+      "updateTime": 1637997126,
+      "createTime": 1637996552,
+      "histories": [],
+      "created_at": "2021-11-26 23:02:32",
+      "updated_at": "2021-11-26 23:12:06"
+    }
+  ],
+  "sort": [
+    "152f62552101df7e74f70c83e7a23e2c",
+    "d49c3a28417e94cfd2b60d86b9fa59f6"
+  ],
+  "title": "Bravo-M5-Control Logic",
+  "foldername": "Bravo-M5-Control Logic",
+  "schfilename": "Bravo-M5-Control Logic.json",
+  "schfilemtime": 1637995796577
+}

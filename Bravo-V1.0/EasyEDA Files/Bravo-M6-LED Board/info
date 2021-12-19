@@ -1,0 +1,388 @@
+{
+  "uuid": "150fba569d991638d9bec84f13daa958",
+  "path": "Offline/Bravo-M6-LED%20Board",
+  "name": "Bravo-M6-LED Board",
+  "content": "",
+  "created_at": "2021-11-23 07:31:51",
+  "updated_at": "2021-12-18 22:10:26",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "9d724b0f1119576868fcc963b60134b1",
+      "title": "Bravo-M6-LED Board",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "9bfc7ef8508843889d08aa0123a38a6c": 59,
+        "46cf290cfca04bff90133fb9cf5e7a4d": 8,
+        "9308549d925a44a584dfbd5984193aa1": 2,
+        "de8d0cb8ddb34369b3702ce978be4664": 2,
+        "a3c3f2cc43374e0f96cf767b37693a68": 1,
+        "84b86d4453694a3e88d3b5b313d9f585": 1,
+        "f83b2439564145aca13b97f1d9bbf5b7": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "RED",
+          16,
+          "LED5MM",
+          "D601,D602,D603,D604,D605,D606,D607,D608,D609,D610,D611,D612,D613,D614,D615,D616",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "41500ebec55644099429cf84718c4fb6",
+            "uuid": "9bfc7ef8508843889d08aa0123a38a6c"
+          }
+        ],
+        [
+          "Green",
+          9,
+          "LED5MM",
+          "D617,D618,D619,D620,D621,D622,D623,D624,D625",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "41500ebec55644099429cf84718c4fb6",
+            "uuid": "9bfc7ef8508843889d08aa0123a38a6c"
+          }
+        ],
+        [
+          "Red",
+          1,
+          "LED5MM",
+          "D626",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "41500ebec55644099429cf84718c4fb6",
+            "uuid": "9bfc7ef8508843889d08aa0123a38a6c"
+          }
+        ],
+        [
+          "Yellow",
+          1,
+          "LED5MM",
+          "D627",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "41500ebec55644099429cf84718c4fb6",
+            "uuid": "9bfc7ef8508843889d08aa0123a38a6c"
+          }
+        ],
+        [
+          "YELLOW",
+          16,
+          "LED5MM",
+          "D628,D629,D630,D631,D632,D633,D634,D635,D636,D637,D638,D639,D640,D641,D642,D643",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "41500ebec55644099429cf84718c4fb6",
+            "uuid": "9bfc7ef8508843889d08aa0123a38a6c"
+          }
+        ],
+        [
+          "BLUE",
+          16,
+          "LED5MM",
+          "D644,D645,D646,D647,D648,D649,D650,D651,D652,D653,D654,D655,D656,D657,D658,D659",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "41500ebec55644099429cf84718c4fb6",
+            "uuid": "9bfc7ef8508843889d08aa0123a38a6c"
+          }
+        ],
+        [
+          "470",
+          8,
+          "HDR-M-2.54_1X9",
+          "RA1,RA2,RA3,RA4,RA5,RA6,RA7,RA8",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "Resistor Array 8",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "af1184eb33cb4ad59b43849943842bf8",
+            "uuid": "46cf290cfca04bff90133fb9cf5e7a4d"
+          }
+        ],
+        [
+          "74HC04",
+          2,
+          "DIP-14_W7.62MM_SOCKET",
+          "U601,U602",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "9308549d925a44a584dfbd5984193aa1"
+          }
+        ],
+        [
+          "100nf",
+          2,
+          "CAP-TH_L4.0-W2.5-P5.00-D1.0",
+          "601,602",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C342429",
+            "BOM_Manufacturer": "TDK",
+            "BOM_Manufacturer Part": "CC45SL3AD220JYVNA",
+            "puuid": "61724eaf9d8e46358297f270d4daf37a",
+            "uuid": "f146eb306ef0415eaf0db59b031927c5"
+          }
+        ],
+        [
+          "LH",
+          1,
+          "HEADER-2X20-2.54",
+          "H601",
+          {
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
+            "BOM_Supplier Part": "C57369",
+            "puuid": "622ce7b6bed34c9bb144fbbd4b9309f0",
+            "uuid": "98dd7f0dd33b4efe8ae9a0237cc7d82a"
+          }
+        ],
+        [
+          "RH",
+          1,
+          "HEADER-2X20-2.54",
+          "H602",
+          {
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
+            "BOM_Supplier Part": "C57369",
+            "puuid": "622ce7b6bed34c9bb144fbbd4b9309f0",
+            "uuid": "98dd7f0dd33b4efe8ae9a0237cc7d82a"
+          }
+        ],
+        [
+          "74HC04",
+          2,
+          "DIP-14_W7.62MM_SOCKET",
+          "U601,U602",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "a3c3f2cc43374e0f96cf767b37693a68"
+          }
+        ]
+      ],
+      "updateTime": 1639894198,
+      "createTime": 1637681514,
+      "histories": [],
+      "created_at": "2021-11-23 07:31:54",
+      "updated_at": "2021-12-18 22:09:58"
+    },
+    {
+      "uuid": "673aa01cf5a9e9c4c3df92892e6d4c71",
+      "title": "Bravo-M6-Common",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "84b86d4453694a3e88d3b5b313d9f585": 1,
+        "a3c3f2cc43374e0f96cf767b37693a68": 1,
+        "f83b2439564145aca13b97f1d9bbf5b7": 1,
+        "01cf030a82a04eb0a13c19c126e10496": 2,
+        "129abd5d745040dbbda18d492a05b9b8": 2,
+        "98dd7f0dd33b4efe8ae9a0237cc7d82a": 2,
+        "f146eb306ef0415eaf0db59b031927c5": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "RED",
+          16,
+          "LED5MM",
+          "D601,D602,D603,D604,D605,D606,D607,D608,D609,D610,D611,D612,D613,D614,D615,D616",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "41500ebec55644099429cf84718c4fb6",
+            "uuid": "9bfc7ef8508843889d08aa0123a38a6c"
+          }
+        ],
+        [
+          "Green",
+          9,
+          "LED5MM",
+          "D617,D618,D619,D620,D621,D622,D623,D624,D625",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "41500ebec55644099429cf84718c4fb6",
+            "uuid": "9bfc7ef8508843889d08aa0123a38a6c"
+          }
+        ],
+        [
+          "Red",
+          1,
+          "LED5MM",
+          "D626",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "41500ebec55644099429cf84718c4fb6",
+            "uuid": "9bfc7ef8508843889d08aa0123a38a6c"
+          }
+        ],
+        [
+          "Yellow",
+          1,
+          "LED5MM",
+          "D627",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "41500ebec55644099429cf84718c4fb6",
+            "uuid": "9bfc7ef8508843889d08aa0123a38a6c"
+          }
+        ],
+        [
+          "YELLOW",
+          16,
+          "LED5MM",
+          "D628,D629,D630,D631,D632,D633,D634,D635,D636,D637,D638,D639,D640,D641,D642,D643",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "41500ebec55644099429cf84718c4fb6",
+            "uuid": "9bfc7ef8508843889d08aa0123a38a6c"
+          }
+        ],
+        [
+          "BLUE",
+          16,
+          "LED5MM",
+          "D644,D645,D646,D647,D648,D649,D650,D651,D652,D653,D654,D655,D656,D657,D658,D659",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "41500ebec55644099429cf84718c4fb6",
+            "uuid": "9bfc7ef8508843889d08aa0123a38a6c"
+          }
+        ],
+        [
+          "220",
+          8,
+          "HDR-M-2.54_1X9",
+          "RA1,RA2,RA3,RA4,RA5,RA6,RA7,RA8",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "Resistor Array 8",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "af1184eb33cb4ad59b43849943842bf8",
+            "uuid": "46cf290cfca04bff90133fb9cf5e7a4d"
+          }
+        ],
+        [
+          "74HC04",
+          2,
+          "DIP-14_W7.62MM_SOCKET",
+          "U601,U602",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "9308549d925a44a584dfbd5984193aa1"
+          }
+        ],
+        [
+          "100nf",
+          2,
+          "CAP-TH_L4.0-W2.5-P5.00-D1.0",
+          "601,602",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C342429",
+            "BOM_Manufacturer": "TDK",
+            "BOM_Manufacturer Part": "CC45SL3AD220JYVNA",
+            "puuid": "61724eaf9d8e46358297f270d4daf37a",
+            "uuid": "f146eb306ef0415eaf0db59b031927c5"
+          }
+        ],
+        [
+          "LH",
+          1,
+          "HEADER-2X20-2.54",
+          "H601",
+          {
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
+            "BOM_Supplier Part": "C57369",
+            "puuid": "622ce7b6bed34c9bb144fbbd4b9309f0",
+            "uuid": "98dd7f0dd33b4efe8ae9a0237cc7d82a"
+          }
+        ],
+        [
+          "RH",
+          1,
+          "HEADER-2X20-2.54",
+          "H602",
+          {
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
+            "BOM_Supplier Part": "C57369",
+            "puuid": "622ce7b6bed34c9bb144fbbd4b9309f0",
+            "uuid": "98dd7f0dd33b4efe8ae9a0237cc7d82a"
+          }
+        ],
+        [
+          "74HC04",
+          2,
+          "DIP-14_W7.62MM_SOCKET",
+          "U601,U602",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "a3c3f2cc43374e0f96cf767b37693a68"
+          }
+        ]
+      ],
+      "updateTime": 1638084790,
+      "createTime": 1637681594,
+      "histories": [],
+      "created_at": "2021-11-23 07:33:14",
+      "updated_at": "2021-11-27 23:33:10"
+    },
+    {
+      "uuid": "ea1195de5f46f0317292704a7ef38c1e",
+      "puuid": "150fba569d991638d9bec84f13daa958",
+      "title": "PCB_Bravo-M6-LED Board",
+      "filename": "PCB_Bravo-M6-LED Board.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "af1184eb33cb4ad59b43849943842bf8": 8,
+        "61724eaf9d8e46358297f270d4daf37a": 2,
+        "41500ebec55644099429cf84718c4fb6": 59,
+        "622ce7b6bed34c9bb144fbbd4b9309f0": 2,
+        "43789f3fe2154fd1bda052af2bd833a8": 2
+      },
+      "BOM": [],
+      "updateTime": 1639894226,
+      "createTime": 1638000187,
+      "histories": [],
+      "created_at": "2021-11-27 00:03:07",
+      "updated_at": "2021-12-18 22:10:26"
+    }
+  ],
+  "sort": [
+    "9d724b0f1119576868fcc963b60134b1",
+    "673aa01cf5a9e9c4c3df92892e6d4c71"
+  ],
+  "title": "Bravo-M6-LED Board",
+  "foldername": "Bravo-M6-LED Board",
+  "schfilename": "Bravo-M6-LED Board.json",
+  "schfilemtime": 1639894198803
+}

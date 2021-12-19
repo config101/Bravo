@@ -1,0 +1,434 @@
+{
+  "uuid": "21b384bff4f51f4e274fcb9b4a620003",
+  "path": "Offline/Bravo-M3-Memory",
+  "name": "Bravo-M3-Memory",
+  "content": "",
+  "created_at": "2021-11-23 07:13:32",
+  "updated_at": "2021-11-26 22:42:04",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "5355183ada76b6344f51e3f04e1426ea",
+      "title": "Bravo-M3-Memory",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c31a5de77a4140c2b721fd769924d06c": 1,
+        "7c5db3a506df49d4a7aed0f649143a5e": 1,
+        "bf59f2055e1d4173be7789f93d692f58": 1,
+        "85b9f96c3165471ca99d459e06d16b5e": 1,
+        "699c587fc8a64886ac7701977cdd846b": 2,
+        "49ef36d1994b48beb60a4e4e25a5228c": 2,
+        "7a6797ccc509488c989c738efca96a92": 4,
+        "83c4b55703414ea5be9087b0fb544aad": 1,
+        "412c15394f2a4181ad18ee50ea5ce99d": 1,
+        "572d503334374150ab5c6506de300be8": 1,
+        "92e4a58629f245a29b8ba442640afa3c": 1,
+        "f146eb306ef0415eaf0db59b031927c5": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "470pf",
+          1,
+          "CAP-TH_L4.0-W2.5-P5.00-D1.0",
+          "C311",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C342429",
+            "BOM_Manufacturer": "TDK",
+            "BOM_Manufacturer Part": "CC45SL3AD220JYVNA",
+            "puuid": "61724eaf9d8e46358297f270d4daf37a",
+            "uuid": "f146eb306ef0415eaf0db59b031927c5"
+          }
+        ],
+        [
+          "4.7K",
+          1,
+          "AXIAL-0.4",
+          "R301",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C119282",
+            "BOM_Manufacturer": "Chian Chia Elec",
+            "BOM_Manufacturer Part": "-",
+            "puuid": "58660ac887734961820739bcb905346a",
+            "uuid": "bf59f2055e1d4173be7789f93d692f58"
+          }
+        ],
+        [
+          "74HC161",
+          4,
+          "DIP-16_W7.62MM_SOCKET",
+          "U301,U302,U303,U304",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "209ac49697bc42e187b750e70c46afdf",
+            "uuid": "7a6797ccc509488c989c738efca96a92"
+          }
+        ],
+        [
+          "CY62256",
+          1,
+          "PDIP-28_L37.0-W13.5-P2.54-LS15.6-BL",
+          "U305",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "cf2846522daf4845a6d8d8b8b2e17553",
+            "uuid": "c31a5de77a4140c2b721fd769924d06c"
+          }
+        ],
+        [
+          "SST39SF040A",
+          1,
+          "PDIP-32_L42.0-W13.7-P2.54-LS15.2-BL",
+          "U306",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C220176",
+            "BOM_Manufacturer": "Microchip Tech",
+            "BOM_Manufacturer Part": "SST39SF040-70-4C-PHE",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "9cf513ff5f254c7ba96fbc5a8931265e",
+            "uuid": "7c5db3a506df49d4a7aed0f649143a5e"
+          }
+        ],
+        [
+          "74HC173",
+          1,
+          "DIP-16_W7.62MM_SOCKET",
+          "U307",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "209ac49697bc42e187b750e70c46afdf",
+            "uuid": "83c4b55703414ea5be9087b0fb544aad"
+          }
+        ],
+        [
+          "74HC00",
+          2,
+          "DIP-14_W7.62MM_SOCKET",
+          "U308,U309",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "49ef36d1994b48beb60a4e4e25a5228c"
+          }
+        ],
+        [
+          "74HC04",
+          1,
+          "DIP-14_W7.62MM_SOCKET",
+          "U310",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "85b9f96c3165471ca99d459e06d16b5e"
+          }
+        ],
+        [
+          "100nf",
+          8,
+          "CAP-TH_L4.0-W2.5-P5.00-D1.0",
+          "C301,C302,C303,C304,C307,C308,C309,C310",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C342429",
+            "BOM_Manufacturer": "TDK",
+            "BOM_Manufacturer Part": "CC45SL3AD220JYVNA",
+            "puuid": "61724eaf9d8e46358297f270d4daf37a",
+            "uuid": "f146eb306ef0415eaf0db59b031927c5"
+          }
+        ],
+        [
+          "LH",
+          1,
+          "HEADER-2X20-2.54",
+          "H301",
+          {
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
+            "BOM_Supplier Part": "C57369",
+            "puuid": "622ce7b6bed34c9bb144fbbd4b9309f0",
+            "uuid": "98dd7f0dd33b4efe8ae9a0237cc7d82a"
+          }
+        ],
+        [
+          "RH",
+          1,
+          "HEADER-2X20-2.54",
+          "H302",
+          {
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
+            "BOM_Supplier Part": "C57369",
+            "puuid": "622ce7b6bed34c9bb144fbbd4b9309f0",
+            "uuid": "98dd7f0dd33b4efe8ae9a0237cc7d82a"
+          }
+        ],
+        [
+          "74HC00",
+          2,
+          "DIP-14_W7.62MM_SOCKET",
+          "U308,U309",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "412c15394f2a4181ad18ee50ea5ce99d"
+          }
+        ],
+        [
+          "74HC04",
+          1,
+          "DIP-14_W7.62MM_SOCKET",
+          "U310",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "7fb765e3208a418faeec3fe4f861fe3d"
+          }
+        ]
+      ],
+      "updateTime": 1637888301,
+      "createTime": 1637680427,
+      "histories": [],
+      "created_at": "2021-11-23 07:13:47",
+      "updated_at": "2021-11-25 16:58:21"
+    },
+    {
+      "uuid": "29ee18d39b0de2b78476c5aebba889f7",
+      "title": "Bravo-M3-Common",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "412c15394f2a4181ad18ee50ea5ce99d": 1,
+        "c921078daa3548efabf83f41aa5c32c8": 2,
+        "92e4a58629f245a29b8ba442640afa3c": 1,
+        "7fb765e3208a418faeec3fe4f861fe3d": 1,
+        "65c444c65eb64dae865252f8219edf54": 1,
+        "36e0b63aee434900b9af7ba4be298828": 1,
+        "b2d1a85cc2ce4c1abde54d0ff894c311": 1,
+        "ec62828c52d44e5689d63a6abc9657e9": 1,
+        "f146eb306ef0415eaf0db59b031927c5": 8,
+        "98dd7f0dd33b4efe8ae9a0237cc7d82a": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "470pf",
+          1,
+          "CAP-TH_L4.0-W2.5-P5.00-D1.0",
+          "C311",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C342429",
+            "BOM_Manufacturer": "TDK",
+            "BOM_Manufacturer Part": "CC45SL3AD220JYVNA",
+            "puuid": "61724eaf9d8e46358297f270d4daf37a",
+            "uuid": "f146eb306ef0415eaf0db59b031927c5"
+          }
+        ],
+        [
+          "4.7K",
+          1,
+          "AXIAL-0.4",
+          "R301",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C119282",
+            "BOM_Manufacturer": "Chian Chia Elec",
+            "BOM_Manufacturer Part": "-",
+            "puuid": "58660ac887734961820739bcb905346a",
+            "uuid": "bf59f2055e1d4173be7789f93d692f58"
+          }
+        ],
+        [
+          "74HC161",
+          4,
+          "DIP-16_W7.62MM_SOCKET",
+          "U301,U302,U303,U304",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "209ac49697bc42e187b750e70c46afdf",
+            "uuid": "7a6797ccc509488c989c738efca96a92"
+          }
+        ],
+        [
+          "CY62256",
+          1,
+          "PDIP-28_L37.0-W13.5-P2.54-LS15.6-BL",
+          "U305",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "cf2846522daf4845a6d8d8b8b2e17553",
+            "uuid": "c31a5de77a4140c2b721fd769924d06c"
+          }
+        ],
+        [
+          "SST39SF040A",
+          1,
+          "PDIP-32_L42.0-W13.7-P2.54-LS15.2-BL",
+          "U306",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C220176",
+            "BOM_Manufacturer": "Microchip Tech",
+            "BOM_Manufacturer Part": "SST39SF040-70-4C-PHE",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "9cf513ff5f254c7ba96fbc5a8931265e",
+            "uuid": "7c5db3a506df49d4a7aed0f649143a5e"
+          }
+        ],
+        [
+          "74HC173",
+          1,
+          "DIP-16_W7.62MM_SOCKET",
+          "U307",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "209ac49697bc42e187b750e70c46afdf",
+            "uuid": "83c4b55703414ea5be9087b0fb544aad"
+          }
+        ],
+        [
+          "74HC00",
+          2,
+          "DIP-14_W7.62MM_SOCKET",
+          "U308,U309",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "49ef36d1994b48beb60a4e4e25a5228c"
+          }
+        ],
+        [
+          "74HC04",
+          1,
+          "DIP-14_W7.62MM_SOCKET",
+          "U310",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "85b9f96c3165471ca99d459e06d16b5e"
+          }
+        ],
+        [
+          "100nf",
+          8,
+          "CAP-TH_L4.0-W2.5-P5.00-D1.0",
+          "C301,C302,C303,C304,C307,C308,C309,C310",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C342429",
+            "BOM_Manufacturer": "TDK",
+            "BOM_Manufacturer Part": "CC45SL3AD220JYVNA",
+            "puuid": "61724eaf9d8e46358297f270d4daf37a",
+            "uuid": "f146eb306ef0415eaf0db59b031927c5"
+          }
+        ],
+        [
+          "LH",
+          1,
+          "HEADER-2X20-2.54",
+          "H301",
+          {
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
+            "BOM_Supplier Part": "C57369",
+            "puuid": "622ce7b6bed34c9bb144fbbd4b9309f0",
+            "uuid": "98dd7f0dd33b4efe8ae9a0237cc7d82a"
+          }
+        ],
+        [
+          "RH",
+          1,
+          "HEADER-2X20-2.54",
+          "H302",
+          {
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
+            "BOM_Supplier Part": "C57369",
+            "puuid": "622ce7b6bed34c9bb144fbbd4b9309f0",
+            "uuid": "98dd7f0dd33b4efe8ae9a0237cc7d82a"
+          }
+        ],
+        [
+          "74HC00",
+          2,
+          "DIP-14_W7.62MM_SOCKET",
+          "U308,U309",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "412c15394f2a4181ad18ee50ea5ce99d"
+          }
+        ],
+        [
+          "74HC04",
+          1,
+          "DIP-14_W7.62MM_SOCKET",
+          "U310",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "43789f3fe2154fd1bda052af2bd833a8",
+            "uuid": "7fb765e3208a418faeec3fe4f861fe3d"
+          }
+        ]
+      ],
+      "updateTime": 1637995129,
+      "createTime": 1637680497,
+      "histories": [],
+      "created_at": "2021-11-23 07:14:57",
+      "updated_at": "2021-11-26 22:38:49"
+    },
+    {
+      "uuid": "82890af6586dcf07a558a2015ac0ad3f",
+      "puuid": "21b384bff4f51f4e274fcb9b4a620003",
+      "title": "PCB_Bravo-M3-Memory",
+      "filename": "PCB_Bravo-M3-Memory.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "61724eaf9d8e46358297f270d4daf37a": 9,
+        "622ce7b6bed34c9bb144fbbd4b9309f0": 2,
+        "58660ac887734961820739bcb905346a": 1,
+        "209ac49697bc42e187b750e70c46afdf": 5,
+        "43789f3fe2154fd1bda052af2bd833a8": 3,
+        "cf2846522daf4845a6d8d8b8b2e17553": 1,
+        "9cf513ff5f254c7ba96fbc5a8931265e": 1
+      },
+      "BOM": [],
+      "updateTime": 1637995324,
+      "createTime": 1637874690,
+      "histories": [],
+      "created_at": "2021-11-25 13:11:30",
+      "updated_at": "2021-11-26 22:42:04"
+    }
+  ],
+  "sort": [
+    "5355183ada76b6344f51e3f04e1426ea",
+    "29ee18d39b0de2b78476c5aebba889f7"
+  ],
+  "title": "Bravo-M3-Memory",
+  "foldername": "Bravo-M3-Memory",
+  "schfilename": "Bravo-M3-Memory.json",
+  "schfilemtime": 1637995129867
+}
