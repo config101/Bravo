@@ -1,0 +1,295 @@
+{
+  "uuid": "6b2863b7a62da6df6a3a57a958db9aeb",
+  "path": "Offline/Bravo-M7-Arduino%20Mega%20Shield",
+  "name": "Bravo-M7-Arduino Mega Shield",
+  "content": "",
+  "created_at": "2021-11-23 22:09:20",
+  "updated_at": "2021-12-18 22:12:06",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "3ae1a061085e3afea2a63b1bc398b8dd",
+      "title": "Bravo-M7-Arduino Mega Shield",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "b073fa5be9fa4a71894dcbda97a795cc": 2,
+        "bf59f2055e1d4173be7789f93d692f58": 1,
+        "50173d6b7a0945369289c1a3a047eedb": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "4.7K",
+          1,
+          "AXIAL-0.4",
+          "R701",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C119282",
+            "BOM_Manufacturer": "Chian Chia Elec",
+            "BOM_Manufacturer Part": "-",
+            "puuid": "58660ac887734961820739bcb905346a",
+            "uuid": "bf59f2055e1d4173be7789f93d692f58"
+          }
+        ],
+        [
+          "Manual Clock",
+          1,
+          "TACTILE-PTH",
+          "SW701",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "3ce14a6b4961469894f0d82b296c83a6",
+            "uuid": "b073fa5be9fa4a71894dcbda97a795cc"
+          }
+        ],
+        [
+          "Arduino Reset",
+          1,
+          "TACTILE-PTH",
+          "SW702",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "3ce14a6b4961469894f0d82b296c83a6",
+            "uuid": "b073fa5be9fa4a71894dcbda97a795cc"
+          }
+        ],
+        [
+          "ARDUINO-MEGA_2560",
+          1,
+          "ARDUINO-MEGA2560",
+          "U701",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "8c78725ea5e94f12a3782d8d14adce21",
+            "uuid": "50173d6b7a0945369289c1a3a047eedb"
+          }
+        ],
+        [
+          "LH",
+          1,
+          "HEADER-2X20-2.54",
+          "H701",
+          {
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
+            "BOM_Supplier Part": "C57369",
+            "puuid": "622ce7b6bed34c9bb144fbbd4b9309f0",
+            "uuid": "98dd7f0dd33b4efe8ae9a0237cc7d82a"
+          }
+        ],
+        [
+          "RH",
+          1,
+          "HEADER-2X20-2.54",
+          "H702",
+          {
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
+            "BOM_Supplier Part": "C57369",
+            "puuid": "622ce7b6bed34c9bb144fbbd4b9309f0",
+            "uuid": "98dd7f0dd33b4efe8ae9a0237cc7d82a"
+          }
+        ],
+        [
+          "4.7K",
+          1,
+          "AXIAL-0.4",
+          "R702",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C119282",
+            "BOM_Manufacturer": "Chian Chia Elec",
+            "BOM_Manufacturer Part": "-",
+            "puuid": "58660ac887734961820739bcb905346a",
+            "uuid": "bf59f2055e1d4173be7789f93d692f58"
+          }
+        ],
+        [
+          "System Reset",
+          1,
+          "TACTILE-PTH",
+          "SW703",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "3ce14a6b4961469894f0d82b296c83a6",
+            "uuid": "b073fa5be9fa4a71894dcbda97a795cc"
+          }
+        ]
+      ],
+      "updateTime": 1639894313,
+      "createTime": 1637734171,
+      "histories": [],
+      "created_at": "2021-11-23 22:09:31",
+      "updated_at": "2021-12-18 22:11:53"
+    },
+    {
+      "uuid": "90cce34732d5089edff29c94b2814509",
+      "title": "Bravo-M7-Common",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "98dd7f0dd33b4efe8ae9a0237cc7d82a": 2,
+        "bf59f2055e1d4173be7789f93d692f58": 1,
+        "b073fa5be9fa4a71894dcbda97a795cc": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10K",
+          1,
+          "AXIAL-0.4",
+          "R701",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C119282",
+            "BOM_Manufacturer": "Chian Chia Elec",
+            "BOM_Manufacturer Part": "-",
+            "puuid": "58660ac887734961820739bcb905346a",
+            "uuid": "bf59f2055e1d4173be7789f93d692f58"
+          }
+        ],
+        [
+          "Manual Clock",
+          1,
+          "TACTILE-PTH",
+          "SW701",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "3ce14a6b4961469894f0d82b296c83a6",
+            "uuid": "b073fa5be9fa4a71894dcbda97a795cc"
+          }
+        ],
+        [
+          "Arduino Reset",
+          1,
+          "TACTILE-PTH",
+          "SW702",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "3ce14a6b4961469894f0d82b296c83a6",
+            "uuid": "b073fa5be9fa4a71894dcbda97a795cc"
+          }
+        ],
+        [
+          "ARDUINO-MEGA_2560",
+          1,
+          "ARDUINO-MEGA2560",
+          "U701",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "8c78725ea5e94f12a3782d8d14adce21",
+            "uuid": "50173d6b7a0945369289c1a3a047eedb"
+          }
+        ],
+        [
+          "LH",
+          1,
+          "HEADER-2X20-2.54",
+          "H701",
+          {
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
+            "BOM_Supplier Part": "C57369",
+            "puuid": "622ce7b6bed34c9bb144fbbd4b9309f0",
+            "uuid": "98dd7f0dd33b4efe8ae9a0237cc7d82a"
+          }
+        ],
+        [
+          "RH",
+          1,
+          "HEADER-2X20-2.54",
+          "H702",
+          {
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
+            "BOM_Supplier Part": "C57369",
+            "puuid": "622ce7b6bed34c9bb144fbbd4b9309f0",
+            "uuid": "98dd7f0dd33b4efe8ae9a0237cc7d82a"
+          }
+        ],
+        [
+          "4.7K",
+          1,
+          "AXIAL-0.4",
+          "R702",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C119282",
+            "BOM_Manufacturer": "Chian Chia Elec",
+            "BOM_Manufacturer Part": "-",
+            "puuid": "58660ac887734961820739bcb905346a",
+            "uuid": "bf59f2055e1d4173be7789f93d692f58"
+          }
+        ],
+        [
+          "System Reset",
+          1,
+          "TACTILE-PTH",
+          "SW703",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "3ce14a6b4961469894f0d82b296c83a6",
+            "uuid": "b073fa5be9fa4a71894dcbda97a795cc"
+          }
+        ]
+      ],
+      "updateTime": 1637735652,
+      "createTime": 1637734240,
+      "histories": [],
+      "created_at": "2021-11-23 22:10:40",
+      "updated_at": "2021-11-23 22:34:12"
+    },
+    {
+      "uuid": "b6240f017295706a501e0145949de2ca",
+      "puuid": "6b2863b7a62da6df6a3a57a958db9aeb",
+      "title": "PCB_Bravo-M7-Arduino Mega Shield",
+      "filename": "PCB_Bravo-M7-Arduino Mega Shield.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "58660ac887734961820739bcb905346a": 2,
+        "622ce7b6bed34c9bb144fbbd4b9309f0": 2,
+        "3ce14a6b4961469894f0d82b296c83a6": 3,
+        "8c78725ea5e94f12a3782d8d14adce21": 1
+      },
+      "BOM": [],
+      "updateTime": 1639894326,
+      "createTime": 1637820808,
+      "histories": [],
+      "created_at": "2021-11-24 22:13:28",
+      "updated_at": "2021-12-18 22:12:06"
+    }
+  ],
+  "sort": [
+    "3ae1a061085e3afea2a63b1bc398b8dd",
+    "90cce34732d5089edff29c94b2814509"
+  ],
+  "title": "Bravo-M7-Arduino Mega Shield",
+  "foldername": "Bravo-M7-Arduino Mega Shield",
+  "schfilename": "Bravo-M7-Arduino Mega Shield.json",
+  "schfilemtime": 1639894313066
+}
