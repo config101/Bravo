@@ -4,7 +4,7 @@
   "name": "Bravo-M3-Memory",
   "content": "",
   "created_at": "2021-11-23 07:13:32",
-  "updated_at": "2021-11-26 22:42:04",
+  "updated_at": "2021-12-22 00:24:27",
   "stick": "",
   "documents": [
     {
@@ -416,11 +416,11 @@
         "9cf513ff5f254c7ba96fbc5a8931265e": 1
       },
       "BOM": [],
-      "updateTime": 1637995324,
+      "updateTime": 1640161467,
       "createTime": 1637874690,
       "histories": [],
       "created_at": "2021-11-25 13:11:30",
-      "updated_at": "2021-11-26 22:42:04"
+      "updated_at": "2021-12-22 00:24:27"
     }
   ],
   "sort": [

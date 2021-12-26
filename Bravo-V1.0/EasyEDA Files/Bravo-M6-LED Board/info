@@ -4,7 +4,7 @@
   "name": "Bravo-M6-LED Board",
   "content": "",
   "created_at": "2021-11-23 07:31:51",
-  "updated_at": "2021-12-18 22:10:26",
+  "updated_at": "2021-12-22 00:29:47",
   "stick": "",
   "documents": [
     {
@@ -15,7 +15,7 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "9bfc7ef8508843889d08aa0123a38a6c": 59,
+        "9bfc7ef8508843889d08aa0123a38a6c": 60,
         "46cf290cfca04bff90133fb9cf5e7a4d": 8,
         "9308549d925a44a584dfbd5984193aa1": 2,
         "de8d0cb8ddb34369b3702ce978be4664": 2,
@@ -91,6 +91,17 @@
           16,
           "LED5MM",
           "D644,D645,D646,D647,D648,D649,D650,D651,D652,D653,D654,D655,D656,D657,D658,D659",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "41500ebec55644099429cf84718c4fb6",
+            "uuid": "9bfc7ef8508843889d08aa0123a38a6c"
+          }
+        ],
+        [
+          "Blue",
+          1,
+          "LED5MM",
+          "D660",
           {
             "BOM_Manufacturer Part": "",
             "puuid": "41500ebec55644099429cf84718c4fb6",
@@ -174,11 +185,11 @@
           }
         ]
       ],
-      "updateTime": 1639894198,
+      "updateTime": 1640063676,
       "createTime": 1637681514,
       "histories": [],
       "created_at": "2021-11-23 07:31:54",
-      "updated_at": "2021-12-18 22:09:58"
+      "updated_at": "2021-12-20 21:14:36"
     },
     {
       "uuid": "673aa01cf5a9e9c4c3df92892e6d4c71",
@@ -271,7 +282,18 @@
           }
         ],
         [
-          "220",
+          "Blue",
+          1,
+          "LED5MM",
+          "D660",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "41500ebec55644099429cf84718c4fb6",
+            "uuid": "9bfc7ef8508843889d08aa0123a38a6c"
+          }
+        ],
+        [
+          "470",
           8,
           "HDR-M-2.54_1X9",
           "RA1,RA2,RA3,RA4,RA5,RA6,RA7,RA8",
@@ -347,11 +369,11 @@
           }
         ]
       ],
-      "updateTime": 1638084790,
+      "updateTime": 1640062667,
       "createTime": 1637681594,
       "histories": [],
       "created_at": "2021-11-23 07:33:14",
-      "updated_at": "2021-11-27 23:33:10"
+      "updated_at": "2021-12-20 20:57:47"
     },
     {
       "uuid": "ea1195de5f46f0317292704a7ef38c1e",
@@ -363,18 +385,18 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
+        "41500ebec55644099429cf84718c4fb6": 60,
         "af1184eb33cb4ad59b43849943842bf8": 8,
         "61724eaf9d8e46358297f270d4daf37a": 2,
-        "41500ebec55644099429cf84718c4fb6": 59,
         "622ce7b6bed34c9bb144fbbd4b9309f0": 2,
         "43789f3fe2154fd1bda052af2bd833a8": 2
       },
       "BOM": [],
-      "updateTime": 1639894226,
+      "updateTime": 1640161787,
       "createTime": 1638000187,
       "histories": [],
       "created_at": "2021-11-27 00:03:07",
-      "updated_at": "2021-12-18 22:10:26"
+      "updated_at": "2021-12-22 00:29:47"
     }
   ],
   "sort": [
@@ -384,5 +406,5 @@
   "title": "Bravo-M6-LED Board",
   "foldername": "Bravo-M6-LED Board",
   "schfilename": "Bravo-M6-LED Board.json",
-  "schfilemtime": 1639894198803
+  "schfilemtime": 1640063676770
 }

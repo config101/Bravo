@@ -4,7 +4,7 @@
   "name": "Bravo-M7-Arduino Mega Shield",
   "content": "",
   "created_at": "2021-11-23 22:09:20",
-  "updated_at": "2021-12-18 22:12:06",
+  "updated_at": "2021-12-22 00:30:47",
   "stick": "",
   "documents": [
     {
@@ -277,11 +277,11 @@
         "8c78725ea5e94f12a3782d8d14adce21": 1
       },
       "BOM": [],
-      "updateTime": 1639894326,
+      "updateTime": 1640161847,
       "createTime": 1637820808,
       "histories": [],
       "created_at": "2021-11-24 22:13:28",
-      "updated_at": "2021-12-18 22:12:06"
+      "updated_at": "2021-12-22 00:30:47"
     }
   ],
   "sort": [

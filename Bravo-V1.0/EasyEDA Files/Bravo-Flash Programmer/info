@@ -1,0 +1,120 @@
+{
+  "uuid": "4a05aac0444f9acaec8bf5af2852ed47",
+  "path": "Offline/Bravo-Flash%20Programmer",
+  "name": "Bravo-Flash Programmer",
+  "content": "",
+  "created_at": "2021-12-21 00:41:18",
+  "updated_at": "2021-12-22 00:20:22",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "73927651b0ee55b0167721d711ec7230",
+      "title": "Bravo-Flash Programmer",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f146eb306ef0415eaf0db59b031927c5": 2,
+        "9394116bc8cf4c3d81020d82bde14aa7": 1,
+        "9939b75bb3324e08a3ff00006ab8438b": 2,
+        "7c5db3a506df49d4a7aed0f649143a5e": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nf",
+          2,
+          "CAP-TH_L4.0-W2.5-P5.00-D1.0",
+          "C1,C2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C342429",
+            "BOM_Manufacturer": "TDK",
+            "BOM_Manufacturer Part": "CC45SL3AD220JYVNA",
+            "puuid": "61724eaf9d8e46358297f270d4daf37a",
+            "uuid": "f146eb306ef0415eaf0db59b031927c5"
+          }
+        ],
+        [
+          "74HC595",
+          2,
+          "74HC595",
+          "U1,U2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "9040951d27184b6fb0ecbf8c07346e40",
+            "uuid": "9939b75bb3324e08a3ff00006ab8438b"
+          }
+        ],
+        [
+          "SST39SF040A",
+          1,
+          "PDIP-32_L42.0-W13.7-P2.54-LS15.2-BL",
+          "U3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C220176",
+            "BOM_Manufacturer": "Microchip Tech",
+            "BOM_Manufacturer Part": "SST39SF040-70-4C-PHE",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "9cf513ff5f254c7ba96fbc5a8931265e",
+            "uuid": "7c5db3a506df49d4a7aed0f649143a5e"
+          }
+        ],
+        [
+          "Arduino Nano",
+          1,
+          "ARDUINO NANO VINCENT",
+          "U4",
+          {
+            "BOM_Manufacturer Part": "ArduinoNano",
+            "puuid": "a01b50d94e2c494f8c2801b223407493",
+            "uuid": "9394116bc8cf4c3d81020d82bde14aa7"
+          }
+        ]
+      ],
+      "updateTime": 1640076114,
+      "createTime": 1640076089,
+      "histories": [],
+      "created_at": "2021-12-21 00:41:29",
+      "updated_at": "2021-12-21 00:41:54"
+    },
+    {
+      "uuid": "ad9cb9e8ec69ec73af123244bf2fdb2c",
+      "puuid": "4a05aac0444f9acaec8bf5af2852ed47",
+      "title": "PCB_Bravo-Flash Programmer",
+      "filename": "PCB_Bravo-Flash Programmer.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "61724eaf9d8e46358297f270d4daf37a": 2,
+        "9040951d27184b6fb0ecbf8c07346e40": 2,
+        "9cf513ff5f254c7ba96fbc5a8931265e": 1,
+        "a01b50d94e2c494f8c2801b223407493": 1
+      },
+      "BOM": [],
+      "updateTime": 1640161222,
+      "createTime": 1640076468,
+      "histories": [],
+      "created_at": "2021-12-21 00:47:48",
+      "updated_at": "2021-12-22 00:20:22"
+    }
+  ],
+  "sort": [],
+  "title": "Bravo-Flash Programmer",
+  "foldername": "Bravo-Flash Programmer",
+  "schfilename": "Bravo-Flash Programmer.json",
+  "schfilemtime": 1640076114147
+}

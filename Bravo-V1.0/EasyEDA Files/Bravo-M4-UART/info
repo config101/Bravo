@@ -4,7 +4,7 @@
   "name": "Bravo-M4-UART",
   "content": "",
   "created_at": "2021-11-21 17:53:30",
-  "updated_at": "2021-12-18 22:03:01",
+  "updated_at": "2021-12-22 00:25:43",
   "stick": "",
   "documents": [
     {
@@ -156,10 +156,24 @@
           }
         ],
         [
+          "47uF",
+          1,
+          "CAP-TH_BD5.0-P2.50-D1.0-FD",
+          "C413",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ValuePro",
+            "BOM_Manufacturer Part": "electrolytic capacitor10UF50V",
+            "BOM_Supplier Part": "C32856",
+            "puuid": "3c1034c7b21b4be38ef4c25c48c419b7",
+            "uuid": "ec006d93e45055dfc7306f978db6c800"
+          }
+        ],
+        [
           "LH",
           1,
           "HEADER-2X20-2.54",
-          "H701",
+          "H401",
           {
             "BOM_Supplier": "",
             "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
@@ -172,7 +186,7 @@
           "RH",
           1,
           "HEADER-2X20-2.54",
-          "H702",
+          "H402",
           {
             "BOM_Supplier": "",
             "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
@@ -182,10 +196,10 @@
           }
         ],
         [
-          "M1",
+          "RH",
           1,
           "1X9PIN",
-          "P1",
+          "H403",
           {
             "BOM_Manufacturer": "",
             "BOM_Manufacturer Part": "",
@@ -196,10 +210,10 @@
           }
         ],
         [
-          "M2",
+          "LH",
           1,
           "1X9PIN",
-          "P2",
+          "H404",
           {
             "BOM_Manufacturer": "",
             "BOM_Manufacturer Part": "",
@@ -232,11 +246,11 @@
           }
         ]
       ],
-      "updateTime": 1637909028,
+      "updateTime": 1640072472,
       "createTime": 1637546233,
       "histories": [],
       "created_at": "2021-11-21 17:57:13",
-      "updated_at": "2021-11-25 22:43:48"
+      "updated_at": "2021-12-20 23:41:12"
     },
     {
       "uuid": "0f652085e1fec303ab323df4597c7a04",
@@ -392,10 +406,24 @@
           }
         ],
         [
+          "47uF",
+          1,
+          "CAP-TH_BD5.0-P2.50-D1.0-FD",
+          "C413",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ValuePro",
+            "BOM_Manufacturer Part": "electrolytic capacitor10UF50V",
+            "BOM_Supplier Part": "C32856",
+            "puuid": "3c1034c7b21b4be38ef4c25c48c419b7",
+            "uuid": "ec006d93e45055dfc7306f978db6c800"
+          }
+        ],
+        [
           "LH",
           1,
           "HEADER-2X20-2.54",
-          "H701",
+          "H401",
           {
             "BOM_Supplier": "",
             "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
@@ -408,7 +436,7 @@
           "RH",
           1,
           "HEADER-2X20-2.54",
-          "H702",
+          "H402",
           {
             "BOM_Supplier": "",
             "BOM_Manufacturer Part": "Headers  Pins2.54mm1*10P",
@@ -418,10 +446,10 @@
           }
         ],
         [
-          "M1",
+          "RH",
           1,
           "1X9PIN",
-          "P1",
+          "H403",
           {
             "BOM_Manufacturer": "",
             "BOM_Manufacturer Part": "",
@@ -432,10 +460,10 @@
           }
         ],
         [
-          "M2",
+          "LH",
           1,
           "1X9PIN",
-          "P2",
+          "H404",
           {
             "BOM_Manufacturer": "",
             "BOM_Manufacturer Part": "",
@@ -468,11 +496,11 @@
           }
         ]
       ],
-      "updateTime": 1637908996,
+      "updateTime": 1640064557,
       "createTime": 1637680537,
       "histories": [],
       "created_at": "2021-11-23 07:15:37",
-      "updated_at": "2021-11-25 22:43:16"
+      "updated_at": "2021-12-20 21:29:17"
     },
     {
       "uuid": "7efac87da00e6a94b481cd620b6daaf0",
@@ -489,7 +517,8 @@
         "844bed9cf79e4371a25f4134e0f03ea6": 1,
         "9cc27d8b8e814df290ff3921f5c769e9": 1,
         "f146eb306ef0415eaf0db59b031927c5": 10,
-        "98dd7f0dd33b4efe8ae9a0237cc7d82a": 2
+        "98dd7f0dd33b4efe8ae9a0237cc7d82a": 2,
+        "ec006d93e45055dfc7306f978db6c800": 1
       },
       "BOM": [
         [
@@ -627,6 +656,20 @@
           }
         ],
         [
+          "47uF",
+          1,
+          "CAP-TH_BD5.0-P2.50-D1.0-FD",
+          "C413",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ValuePro",
+            "BOM_Manufacturer Part": "electrolytic capacitor10UF50V",
+            "BOM_Supplier Part": "C32856",
+            "puuid": "3c1034c7b21b4be38ef4c25c48c419b7",
+            "uuid": "ec006d93e45055dfc7306f978db6c800"
+          }
+        ],
+        [
           "LH",
           1,
           "HEADER-2X20-2.54",
@@ -703,22 +746,23 @@
           }
         ]
       ],
-      "updateTime": 1637909928,
+      "updateTime": 1640064545,
       "createTime": 1637680582,
       "histories": [],
       "created_at": "2021-11-23 07:16:22",
-      "updated_at": "2021-11-25 22:58:48"
+      "updated_at": "2021-12-20 21:29:05"
     },
     {
       "uuid": "188c19f1319fa100270581913b872b19",
       "puuid": "0ddb354a16c44872fb9d2334db80ff4b",
-      "title": "PCB_Bravo-M4-UART-Clock",
-      "filename": "PCB_Bravo-M4-UART-Clock.json",
+      "title": "PCB_Bravo-M4-UART",
+      "filename": "PCB_Bravo-M4-UART.json",
       "description": "",
       "docType": "3",
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
+        "3c1034c7b21b4be38ef4c25c48c419b7": 1,
         "61724eaf9d8e46358297f270d4daf37a": 11,
         "622ce7b6bed34c9bb144fbbd4b9309f0": 2,
         "825a915e9f16443f99cef06157f68b45": 2,
@@ -727,11 +771,11 @@
         "132d4f42c5ca4b53a3a01f15305f3874": 1
       },
       "BOM": [],
-      "updateTime": 1637946023,
+      "updateTime": 1640161543,
       "createTime": 1637910641,
       "histories": [],
       "created_at": "2021-11-25 23:10:41",
-      "updated_at": "2021-11-26 09:00:23"
+      "updated_at": "2021-12-22 00:25:43"
     }
   ],
   "sort": [
@@ -742,5 +786,5 @@
   "title": "Bravo-M4-UART",
   "foldername": "Bravo-M4-UART",
   "schfilename": "Bravo-M4-UART.json",
-  "schfilemtime": 1637909928804
+  "schfilemtime": 1640072472389
 }

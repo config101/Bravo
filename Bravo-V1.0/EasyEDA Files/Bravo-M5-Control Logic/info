@@ -4,7 +4,7 @@
   "name": "Bravo-M5-Control Logic",
   "content": "",
   "created_at": "2021-11-23 07:18:20",
-  "updated_at": "2021-11-26 23:12:06",
+  "updated_at": "2021-12-22 00:26:39",
   "stick": "",
   "documents": [
     {
@@ -430,11 +430,11 @@
         "43789f3fe2154fd1bda052af2bd833a8": 3
       },
       "BOM": [],
-      "updateTime": 1637997126,
+      "updateTime": 1640161599,
       "createTime": 1637996552,
       "histories": [],
       "created_at": "2021-11-26 23:02:32",
-      "updated_at": "2021-11-26 23:12:06"
+      "updated_at": "2021-12-22 00:26:39"
     }
   ],
   "sort": [
