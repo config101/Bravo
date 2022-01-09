@@ -255,14 +255,19 @@ void test_BUS_LED(){
 }
 
 void test_flags_LED(){
+  pinMode(CLK,OUTPUT);
   pinMode(FLC,OUTPUT);
   pinMode(FLN,OUTPUT);
   pinMode(FLZ,OUTPUT);
+  digitalWrite(CLK, HIGH);
+  delay(dt);
   digitalWrite(FLC, HIGH);
   delay(dt);
   digitalWrite(FLN, HIGH);
   delay(dt);
   digitalWrite(FLZ, HIGH);
+  delay(dt);
+  digitalWrite(CLK, LOW);
   delay(dt);
   digitalWrite(FLC, LOW);
   delay(dt);
