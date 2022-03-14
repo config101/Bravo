@@ -141,7 +141,7 @@ void set_add_pins_output(){
 }
 
 //##################  Module Test Functions ######################
-int dt=100;  //delay time in Miliseconds
+int dt=10;  //delay time in Miliseconds
 
 void setup() {
   reset_pins();
