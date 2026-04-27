@@ -16,3 +16,12 @@ https://minimal-cpu-system.boards.net/
 Ben Eater's 8bit Computer
 https://eater.net/
 https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA
+
+## Update - April 2026
+All PCB Gerber files have now been released as part of this repository, so you have everything needed to build the project on your own.
+
+A limited number of kits are still available in our store. If you prefer, you can order PCBs using the provided files and source the parts yourself to complete the build.
+
+Thanks to the many fellow builders who have supported this project over the last couple of years.
+
+Happy building!
