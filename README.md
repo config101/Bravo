@@ -18,7 +18,7 @@ https://eater.net/
 https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA
 
 ## Update - April 2026
-All PCB Gerber files have now been released as part of this repository, so you have everything needed to build the project on your own.So, If you prefer, you can order PCBs using the provided files and source the parts yourself to complete the build.
+All PCB Gerber files have been released as part of this repository free of charge.You now have everything needed to build the project on your own.So, If you prefer, you can order PCBs using the provided files and source the parts yourself to complete the build.
 
 A limited number of kits are still available in our store if you want to purchase all PCBs and parts at once and support the project. Thanks to the many fellow builders who have supported this project over the last couple of years.
 
